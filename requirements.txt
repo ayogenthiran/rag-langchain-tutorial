@@ -1,0 +1,10 @@
+langchain
+langchain-openai
+langchain-chroma
+langchain-community
+langchainhub
+langgraph
+tiktoken
+python-dotenv
+bs4
+
